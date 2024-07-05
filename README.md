@@ -11,8 +11,7 @@ Modified version of the DIY spectrometer project I developed a while ago , using
     - [Diffraction grating position:](#diffraction-grating-position)
     - [Easier to improve](#easier-to-improve)
 - [Old repository link](#old-repository-link)
-- [Installation](#installation)
-- [Usage](#usage)
+- [Installation and Usage](#installation-and-usage)
 - [Results](#results)
 - [Contributing](#contributing)
 - [Licence](#licence)
@@ -52,11 +51,8 @@ DIY-Spectrometer-New is an improved version of [DIY Spectrometer](https://github
 ## Old repository link
 - [Original Project Repository](https://github.com/Meg4Byte/Spectrometer.git)
 
-## Installation
+## Installation and Usage
 Follow the guide in the old repository.
-
-## Usage
-Instructions for using the new version.
 
 ## Results
 

@@ -73,7 +73,7 @@ Comparison of old and new results and theoretical expectations of the white LED 
 ![new measured data](https://github.com/Meg4Byte/DIY-Spectrometer-New-/assets/121357383/f1702a88-d9dd-43d8-b51b-8356228ab706)
 
 X axis represents wavelength in nm , Y axis represents how much does light at certain wavelength appear in the spectrum (higher numbers mean more light is present e.g. green is quite present around 500nm).  
-Since white LED is design to be model white light , green and blue will be present at most and human eyes are very sensitive to this color and that is why white LEDs are very efficent.
+Since white LED were designed to model white light , green and blue colors will be present the most and human eyes are very sensitive to this color and that is why white LEDs are very efficent.
 
 ---
 

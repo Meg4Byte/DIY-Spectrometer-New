@@ -1,4 +1,4 @@
-# DIY-Spectrometer-New
+# DIY Spectrometer New
 Modified version of the DIY spectrometer project I developed a while ago , using Theremnio spectrometer software , USB camera  and a cardboard box
 
 
@@ -11,8 +11,7 @@ Modified version of the DIY spectrometer project I developed a while ago , using
     - [Diffraction grating position:](#diffraction-grating-position)
     - [Easier to improve](#easier-to-improve)
 - [Old repository link](#old-repository-link)
-- [Installation](#installation)
-- [Usage](#usage)
+- [Installation and Usage](#installation-and-usage)
 - [Results](#results)
 - [Contributing](#contributing)
 - [Licence](#licence)
@@ -52,22 +51,35 @@ DIY-Spectrometer-New is an improved version of [DIY Spectrometer](https://github
 ## Old repository link
 - [Original Project Repository](https://github.com/Meg4Byte/Spectrometer.git)
 
-## Installation
+## Installation and Usage
 Follow the guide in the old repository.
-
-## Usage
-Instructions for using the new version.
 
 ## Results
 
 Comparison of old and new results and theoretical expectations of the white LED source.
 
-![old]()
+**Spectral line:** 
 
-![new]()
+![old](https://github.com/Meg4Byte/DIY-Spectrometer-New-/assets/121357383/38adb49e-6691-43ba-bed9-3e031b8e9524)
 
+![new](https://github.com/Meg4Byte/DIY-Spectrometer-New-/assets/121357383/d1f02eeb-e8e8-4f60-831c-239d41892a71)
 
+---
 
+**Measured white LED spectrum:** 
+
+![old measured data](https://github.com/Meg4Byte/DIY-Spectrometer-New-/assets/121357383/55c19ba6-0c86-44c5-8794-bd4b56a99ab0)
+
+![new measured data](https://github.com/Meg4Byte/DIY-Spectrometer-New-/assets/121357383/f1702a88-d9dd-43d8-b51b-8356228ab706)
+
+X axis represents wavelength in nm , Y axis represents how much does light at certain wavelength appear in the spectrum (higher numbers mean more light is present e.g. green is quite present around 550nm).  
+Since white LED were designed to model white light , green and blue colors will be present the most and human eyes are very sensitive to this color and that is why white LEDs are very efficent.
+
+---
+
+**Theoretical white LED spectrum:** 
+
+![white-led-spectrum](https://github.com/Meg4Byte/DIY-Spectrometer-New-/assets/121357383/e75204d5-7e33-4690-8b51-88822e3cffdc)
 
 
 ## Contributing

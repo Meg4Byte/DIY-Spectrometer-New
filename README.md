@@ -62,12 +62,25 @@ Instructions for using the new version.
 
 Comparison of old and new results and theoretical expectations of the white LED source.
 
-![old]()
+**Spectral line:** 
 
-![new]()
+![old](https://github.com/Meg4Byte/DIY-Spectrometer-New-/assets/121357383/38adb49e-6691-43ba-bed9-3e031b8e9524)
 
+![new](https://github.com/Meg4Byte/DIY-Spectrometer-New-/assets/121357383/d1f02eeb-e8e8-4f60-831c-239d41892a71)
 
+---
 
+**Measured white LED spectrum:** 
+
+![old measured data](https://github.com/Meg4Byte/DIY-Spectrometer-New-/assets/121357383/55c19ba6-0c86-44c5-8794-bd4b56a99ab0)
+
+![new measured data](https://github.com/Meg4Byte/DIY-Spectrometer-New-/assets/121357383/f1702a88-d9dd-43d8-b51b-8356228ab706)
+
+---
+
+**Theoretical white LED spectrum:** 
+
+![white-led-spectrum](https://github.com/Meg4Byte/DIY-Spectrometer-New-/assets/121357383/e75204d5-7e33-4690-8b51-88822e3cffdc)
 
 
 ## Contributing

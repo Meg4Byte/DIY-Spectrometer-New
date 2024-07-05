@@ -9,7 +9,7 @@ Modified version of the DIY spectrometer project I developed a while ago , using
 - [Key Improvements](#key-improvements)
     - [DVD instead of CD:](#dvd-instead-of-cd)
     - [Diffraction grating position:](#diffraction-grating-position)
-    - [Easier to improve:](#easier-to-improve)
+    - [Easier to improve](#easier-to-improve)
 - [Old repository link](#old-repository-link)
 - [Installation](#installation)
 - [Usage](#usage)
